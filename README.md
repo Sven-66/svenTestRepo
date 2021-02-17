@@ -4,4 +4,4 @@ making changes
 new line added
 this is not going very well
 and one more to stay there
-Let's see the counter in React APP
+The counter should show 2 instead of 1
