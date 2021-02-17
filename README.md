@@ -3,4 +3,5 @@ for testing purpose of a web app
 making changes
 new line added
 this is not going very well
-
+and one more to stay there
+Let's see the counter in React APP
